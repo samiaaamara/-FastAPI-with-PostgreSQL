@@ -1,1 +1,11 @@
 # -FastAPI-with-PostgreSQL
+![capture 1](images/1.png)
+![capture 2](images/2.png)
+![capture 3](images/3.png)
+![capture 4](images/4.png)
+![capture 5](images/5.png)
+![capture 6](images/6.png)
+![capture 7](images/7.png)
+![capture 8](images/8.png)
+![capture 9](images/9.png)
+![capture 10](images/10.png)
